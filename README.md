@@ -44,9 +44,7 @@ Rode o projeto:
 ![{4E578E91-9525-41C4-A01B-D00FC0A92DEE}](https://github.com/user-attachments/assets/a4f7c9a5-09a8-44ce-8b5c-a73f34d4749a)
 
 🎥 Demonstração em Vídeo
-Confira no vídeo abaixo uma explicação completa da aplicação em funcionamento
-
-🔗 Assista no YouTube
+[🔗 Assista no YouTube](https://youtu.be/E_2riFqRzPI)
 
 🛠️ Tecnologias Utilizadas
 -Vue.js 3
