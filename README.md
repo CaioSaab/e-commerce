@@ -1,6 +1,9 @@
+👨‍💻 Desenvolvido por
+Caio Saab - 1988558 / Felipe Braz - 2003682
+
 # 🛍️ Catálogo de Produtos - Vue.js 3 + Vite
 
-Este projeto é uma aplicação front-end desenvolvida com **Vue.js 3**, utilizando **Vite** como bundler e **TailwindCSS** para a estilização. A aplicação consome uma API de produtos e exibe os dados em formato de catálogo, com funcionalidades como listagem, busca, filtros por categoria, ordenação, detalhes do produto e carrinho de compras.
+Este projeto é uma aplicação front-end desenvolvida com **Vue.js 3**, utilizando **Vite** como bundler e **TailwindCSS** para a estilização. A aplicação consome uma API de produtos e exibe os dados em formato de catálogo, com diversas funcionalidades.
 
 ## ✅ Funcionalidades
 
@@ -50,6 +53,3 @@ Confira no vídeo abaixo uma explicação completa da aplicação em funcionamen
 -Vite
 -Axios
 -TailwindCSS
-
-👨‍💻 Desenvolvido por
-Caio Saab - 1988558 / Felipe Braz - 2003682
